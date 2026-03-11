@@ -1,0 +1,5 @@
+Nome: Luiz Felipe Ciatti de Oliveira
+Curso: ADS
+Linguagens: Python
+Objetivo Profissional: Trabalhar com desenvolvimento
+
